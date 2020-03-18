@@ -29,3 +29,7 @@ def directors_totals(nds)
   result
   
 end
+
+# CHEATER CHEATER PUMPKIN EATER....WHERE ARE THEY GETTING DETAILS OF THIS F****** DB?
+
+
